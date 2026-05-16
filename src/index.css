@@ -45,8 +45,6 @@
 
 body {
   font-family: var(--font-body);
-  background-color: var(--color-bg-dark);
-  color: var(--color-text-inverse);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
